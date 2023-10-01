@@ -10,6 +10,12 @@ How can digital solutions powered by data and AI optimize demand and supply to i
 
 In the face of increasing global disruptions and risks, leveraging machine learning and advanced algorithms presents a transformative opportunity to enhance the resilience of our port operations. By harnessing the power of data and AI, we can optimize demand and supply dynamics, ensuring efficient resource allocation, minimizing disruptions, and fortifying our ability to adapt in an ever-changing environment. This strategic approach promises to bolster the port's competitiveness, reliability, and sustainability, ultimately safeguarding its vital role in global trade.
 
+## Challenge: 
+Delayed ships that may interfere with the routes of other ships and berths.
+
+## Value: 
+Improves efficiency of the port by optimizing allocation of resources such as berths and sea routes.
+
 ## Frontend
 
 This frontend creates a GUI for the user to interact with the app.
