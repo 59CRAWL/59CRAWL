@@ -45,7 +45,7 @@ The backend handles multiple components of the app namely:
 2. Ship docking algorithm
   - Arranges the data for to check if there are any overbooking of berths after expected delays and schedule ships as accordingly
 3. ChatAI
-  - LLaMa API to analyze and dissec the data using LLM models
+  - Langchain CSV Agent to dissect information using pandas
 
 - Ensure python is installed
 
